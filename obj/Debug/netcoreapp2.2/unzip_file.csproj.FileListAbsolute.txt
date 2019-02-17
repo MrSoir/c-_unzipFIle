@@ -1,0 +1,11 @@
+/home/hippo/workspace_VSCode/workspace_C#/unzip_file/bin/Debug/netcoreapp2.2/unzip_file.deps.json
+/home/hippo/workspace_VSCode/workspace_C#/unzip_file/bin/Debug/netcoreapp2.2/unzip_file.runtimeconfig.json
+/home/hippo/workspace_VSCode/workspace_C#/unzip_file/bin/Debug/netcoreapp2.2/unzip_file.runtimeconfig.dev.json
+/home/hippo/workspace_VSCode/workspace_C#/unzip_file/bin/Debug/netcoreapp2.2/unzip_file.dll
+/home/hippo/workspace_VSCode/workspace_C#/unzip_file/bin/Debug/netcoreapp2.2/unzip_file.pdb
+/home/hippo/workspace_VSCode/workspace_C#/unzip_file/obj/Debug/netcoreapp2.2/unzip_file.csprojAssemblyReference.cache
+/home/hippo/workspace_VSCode/workspace_C#/unzip_file/obj/Debug/netcoreapp2.2/unzip_file.csproj.CoreCompileInputs.cache
+/home/hippo/workspace_VSCode/workspace_C#/unzip_file/obj/Debug/netcoreapp2.2/unzip_file.AssemblyInfoInputs.cache
+/home/hippo/workspace_VSCode/workspace_C#/unzip_file/obj/Debug/netcoreapp2.2/unzip_file.AssemblyInfo.cs
+/home/hippo/workspace_VSCode/workspace_C#/unzip_file/obj/Debug/netcoreapp2.2/unzip_file.dll
+/home/hippo/workspace_VSCode/workspace_C#/unzip_file/obj/Debug/netcoreapp2.2/unzip_file.pdb

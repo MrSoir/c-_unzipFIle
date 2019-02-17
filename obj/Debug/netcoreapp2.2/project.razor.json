@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/home/hippo/workspace_VSCode/workspace_C#/unzip_file/unzip_file.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
